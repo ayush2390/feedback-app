@@ -9,6 +9,11 @@ function Header() {
     <header style ={headerStyling}>
       <div className='container'>
           <h2>Feedback UI</h2>
+
+
+
+
+          
       </div>
     </header>
   )
